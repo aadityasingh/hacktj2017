@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "650826749624",
+    "firebase_url": "https://connectme-54a49.firebaseio.com",
+    "project_id": "connectme-54a49",
+    "storage_bucket": "connectme-54a49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650826749624:android:409a8f51d5820511",
+        "android_client_info": {
+          "package_name": "jongwankim.connectme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650826749624-38npddnkgrs3bsm64ddrcma6t3n1knc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx2VTa1LpvFKhG92ArMybbo1xCJAkBMn0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
